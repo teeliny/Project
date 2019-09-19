@@ -1,0 +1,131 @@
+{
+  "HotelListing": [
+    {
+      "name": "Extended Stay Grand Hotel",
+      "state": "Lagos",
+      "address": "21 Oladimeji Alo, Off Freedom Way Beside Canadian Embassy, Lekki Phase 1",
+      "description": "The hotel offers comfortable accommodation to guests and is only 10 minutes from Elegushi Beach The nearest airport is Muritala Mohammed International Airport, which is less than an hour drive away away. Guests will enjoy the proximity of the hotel to Elegushi Beach   Each room at Extended Stay Grand Hotel has a spacious bathroom, king-sized bed, cable connected TV set, refrigerator, bedding items and air conditioner.",
+      "rooms": "90",
+      "amount": "25000",
+      "id": 1
+    },
+    {
+      "name": "K-Orbit Hotel & Suites",
+      "state": "Awka-Ibom",
+      "address": "Plot 55, C-Line, Ewet Housing Estate, Uyo",
+      "description": "The hotel has 33 tastefully furnished rooms which are divided into eight categories. Room categories are, Standard Room, Royal Executive Room, Diplomatic Room, Diplomatic Executive Room, Royal Suite, Diplomatic Suite, Orbit Galaxy Room and Orbit Penthouse. The rooms are very spacious and cozy. Each room features an air conditioner, workdesk, king sized bed, calm connected LCD TV, telephone and a private bathroom. The bathroom is spacious, clean and is fitted with a stand-in bathtub and toiletries. The Suites have a refridgerator and a mini seating area.",
+      "rooms": "33",
+      "amount": "50000",
+      "id": 2
+    },
+    {
+      "name": "Hawthorn Suites by Wyndham",
+      "state": "Abuja",
+      "address": "1 Uke Street, 900001, Area 11.",
+      "description": "Hawthorn Suites Abuja is located in the heart of Nigeria's Capital, Hawthorn Suites by Wyndham offers easy access to the commercial district and to Abuja tourist attractions. Set on beautifully landscaped gardens, the hotel offers a wide range of business and leisure facilities   The hotel has spacious and elegant suites at Hawthorn Suites by Wyndham Abuja. All suites feature large windows with city/pool views, comfortable beds, work desks, complimentary WiFi access, marble bathrooms and more. Browse below and book a room or suite on for our best available rates.",
+      "rooms": "60",
+      "amount": "127000",
+      "id": 3
+    },
+    {
+      "name": "Davok Suites",
+      "state": "",
+      "address": "Plot S.9 Unit G Ewet Housing Estate",
+      "description": "The Davok Suites consists of 32 rooms which fall into categories: Studio, Classic, Executive, Deluxe, Exquisite, Penthouse Slip, Double Exquisite, and Penthouse. Each of these rooms comes with an array of great facilities and services, which include: Wireless internet access, sofas, a flat-screen television set with multi-channel satellite, luxurious beds, en-suite bathroom with Jacuzzi in some rooms, air conditioning, study desks, centre tables and chairs and refrigerator.",
+      "rooms": "45",
+      "amount": "60000",
+      "id": 4
+    },
+    {
+      "name": "Golden Tulip Essential Benin City (formerly Excalibur Benin Hotels)",
+      "state": "Edo",
+      "address": "23B, Etete Road, G.R.A, Beside NPDC",
+      "description": "Golden Tulip Essential Benin City has a total 46 fully operational rooms that vary in layout and category. These categories are: Standard, Deluxe Room, Junior Suite and Executive Suite. These rooms are fitted with modern in-room amenities such as air-conditioners, cosy bed, a cushion, an en-suite bathroom with toiletries and an ornamental rug. Breakfast is served at a surcharge.",
+      "rooms": "46",
+      "amount": "55000",
+      "id": 5
+    },
+    {
+      "name": "Maria's Lodge",
+      "state": "Plateau",
+      "address": "1, Grey Garden, Off Tafawa Balewa Street, West of Mines",
+      "description": "Maria’s Lodge is located at No 1 Grey Garden off Tafawa Balewa Street, close to the famous Plateau Riders Park in the West of Mines Area of Jos North Local Government Area Plateau State, Nigeria.   Maria’s Lodge is right in the heart of Jos, within the most secured area of West of Mines, the neighborhood that host the Police Headquarter, Prison Headquarter and the Department of State Security Services Headquarter.   Maria’s Lodge has 24 hours Security Service including Monitors/CCTV, strategically installed to monitor unwanted activities, in and around the Hotel premises. At Maria’s Lodge your, “premium comfort is guaranteed”.",
+      "rooms": "",
+      "amount": "",
+      "id": 6
+    },
+    {
+      "name": "The Rodinia Hotel",
+      "state": "Delta",
+      "address": "3 Ogochukwu Moyeta Street, Off Summit/DLA Road",
+      "description": "The hotel offers elegant accommodation to guests and is only 3.2 km from Asaba Township Stadium The nearest airport is Asaba Airport, 30 minutes drive away. Guests will enjoy the quality of food prepared at on site restaurant at the hotel   Each room at The Rodinia Hotel has a spacious bathroom, standard-sized bed, TV set, refrigerator, bedding items, sofa, work desk and air conditioner.. Also available at the hotel are free WiFi, a restaurant, free parking and a bar",
+      "rooms": "23",
+      "amount": "45000",
+      "id": 7
+    },
+    {
+      "name": "Best Western Hotel GRA",
+      "state": "Rivers",
+      "address": "Plot F35 Woke Street, Off Sani Abacha Road, GRA 3, Port Harcourt, Rivers State, Nigeria",
+      "description": "Best Western Hotel Port Harcourt is an International hotel seated at Plot F35 Woke Street, off Sani Abacha Road, GRA III in Port Harcourt, Rivers State. This 3-Star hotel is less than 2 km from Port Harcourt Polo Club and offers fantastic and high-class services with the best amenities to its guests. The exterior and interior are aesthetically designed with beautiful walls and lovely ceilings.   Each room is equipped with an air conditioner, ornate lampshade, regal sofa and settee, wardrobe, flat-screen TV with satellite reception, comfy bed, Internet access, toiletries and an amazing en-suite bathroom. Best Western Hotel rooms are grouped into: Comfort Express, Business Deluxe, Business Suite, Executive Suite and Family Deluxe.",
+      "rooms": "55",
+      "amount": "45000",
+      "id": 8
+    },
+    {
+      "name": "Limeridge Hotels, Ikoyi",
+      "state": "Lagos",
+      "address": "Plot 2, Block 12, Udi Street, Osborne Estate 1",
+      "description": "Limeridge Hotels is a chain of hotels that is committed to giving guests the best professional service available.   The guest rooms at Limeridge Hotel, Ikoyi are fitted with refrigerators, flat-screen TVs with satellite channels, worktables and chairs, free wireless internet connection, en-suite bathrooms with free toiletries, and fire-proof safe. The rooms are classified into: Classic, Classic Queen, Superior, Lime Deluxe, Lime Business Suite, Lime Family, Lime Royal and The Apartment.",
+      "rooms": "25",
+      "amount": "30000",
+      "id": 9
+    },
+    {
+      "name": "Fahrenheit Loft",
+      "state": "Lagos",
+      "address": "Plot 312, Akin Ogunlewe Street, Off Ligali Ayorinde",
+      "description": "The Fahrenheit Loft is a hotel located at Plot 312, Akin Ogunlewe Street, off Ligali Ayorinde Street, Victoria Island, Lagos, Nigeria. This hotel boasts a 3-star rating, 27 exquisitely furnished rooms, and a serene location.   Rooms at the Fahrenheit Loft come in categories of Classic rooms, Deluxe rooms, and Ocean view rooms.   These rooms come with state of the art facilities which include air conditioning, flat screen television sets with multi-channel satellite access, luxurious king sized beds, Telephones, sofas, work tables and chairs, bedside drawers, ensuite bathrooms with stand-in shower facilities and complimentary toiletries including high-speed wireless internet connectivity.",
+      "rooms": "45",
+      "amount": "58000",
+      "id": 10
+    }
+  ],
+  "accountUsers": [
+    {
+      "signup": "teeliny",
+      "pass": "12345",
+      "id": 1
+    },
+    {
+      "signup": "yinscoln@yahoo.co.uk",
+      "pass": "123456",
+      "id": 2
+    },
+    {
+      "signup": "yinscoln@yahoo.co.uk",
+      "pass": "123456",
+      "id": 3
+    },
+    {
+      "signup": "yinscoln@yahoo.co.uk",
+      "pass": "123456",
+      "id": 4
+    },
+    {
+      "signup": "yinscoln@yahoo.co.uk",
+      "pass": "123456",
+      "id": 5
+    },
+    {
+      "signup": "yinscoln@yahoo.co.uk",
+      "pass": "12345",
+      "id": 6
+    },
+    {
+      "signup": "abcde",
+      "pass": "1234",
+      "id": 7
+    }
+  ]
+}

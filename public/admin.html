@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <html lang="en">
+  <head>
+    <script src="../js/jquery-3.4.1.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Hotel Listing</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-style"> 
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data target="micon">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+            <a href="index.html"> <img class="logo" src="logo.jpg"></a>
+          </div>
+
+          <div class="collapse navbar-collapse" id="micon">
+          <ul class="nav navbar-nav navbar-right">
+            <li> <a href="index.html">Home</a></li>
+            <li> <a href="signin.html">Sign in</a></li>
+            <li> <a href="signup.html">Sign Up</a></li>
+            <li> <a href="contact.html">Contact Us</a></li>
+            <li> <a href="admin.html">Admin</a></li>
+          </ul>
+        </div>
+        </div>
+      </nav>
+    </header>
+        
+    
+    <h1>The Admin Page</h1>
+        <p>Kindly recall your Admin Password</p>
+    <form action="modify.html" style="border:1px solid #ccc">
+        <div class="imgcontainer">
+          <img src="avatar1.png" alt="Avatar" class="avatar">
+        </div>
+      
+        <div class="container">
+          <label for="uname"><b>Username</b></label>
+          <input type="text" placeholder="Enter Username" name="uname" required>
+      
+          <label for="psw"><b>Password</b></label>
+          <input type="password" placeholder="Enter Password" name="psw" required>
+      
+          <button type="submit" class="signinbtn">Sign in</button>
+          <label>
+            <input type="checkbox" checked="checked" name="remember"> Remember me
+          </label>
+        </div>
+      
+        <div class="container" style="background-color:#f1f1f1">
+          <button type="button" class="cancelbtn">Cancel</button>
+          <span class="psw">Forgot <a href="#">password?</a></span>
+        </div>
+
+       </form>
+
+      <div class="footer">
+        <p>(c) 2019 Allied Corporation</p>
+      </div>
+      
+    </body>
+    <script src="./js/source.js"></script>
+</html>

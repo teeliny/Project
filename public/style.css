@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 100vh;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
+}
+.logo
+{
+    height: 48px;
+    padding: 5px 5px;
+}
+.icon-bar
+{
+    background: red; 
+}
+li a
+{
+    color: black;
+}
+
+
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+  /* Full-width inputs */
+  input[type=text], input[type=number], input[type=password], input[type=password], select, textarea {
+    width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Extra style for the cancel button (red) */
+  .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #F00;
+  }
+
+  .signupbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #0F0;
+}
+
+.signinbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #0F0;
+}
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 20%;
+    border-radius: 25%;
+  }
+  
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+  }
+  
+  /* The "Forgot password" text */
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f500f5;
+  }
+   
+  h1, h2, h3, h5 {
+    text-align: center;
+  }
+
+  .footer {
+    position: fixed;
+    height: 30px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: cyan;
+    color: red;
+    text-align: center;
+  }
+  img {
+    height: 200px;
+    
+}
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  align-content: center;
+  border: none;
+  cursor: pointer;
+  width: 75%;
+}
