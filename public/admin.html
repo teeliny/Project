@@ -42,17 +42,16 @@
     
     <h1>The Admin Page</h1>
         <p>Kindly recall your Admin Password</p>
-    <form action="modify.html" style="border:1px solid #ccc">
+        <form id="login" style="border:1px solid #ccc">
         <div class="imgcontainer">
           <img src="avatar1.png" alt="Avatar" class="avatar">
         </div>
       
         <div class="container">
-          <label for="uname"><b>Username</b></label>
-          <input type="text" placeholder="Enter Username" name="uname" required>
-      
-          <label for="psw"><b>Password</b></label>
-          <input type="password" placeholder="Enter Password" name="psw" required>
+          <label for="uname"><b>User email</b></label>
+          <input type="text" id="uname" placeholder="Enter your email" required value="" /><br />
+          <label for="password"><b>Password</b></label>
+          <input type="password" id="upass" placeholder="Your Password" required value="" /><br />
       
           <button type="submit" class="signinbtn">Sign in</button>
           <label>
@@ -72,5 +71,5 @@
       </div>
       
     </body>
-    <script src="./js/source.js"></script>
+    <script src="./js/admin.js"></script>
 </html>

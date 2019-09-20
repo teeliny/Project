@@ -93,39 +93,21 @@
   ],
   "accountUsers": [
     {
-      "signup": "teeliny",
-      "pass": "12345",
+      "signup": "teeliny@gmail.com",
+      "pass": "123456",
       "id": 1
     },
     {
       "signup": "yinscoln@yahoo.co.uk",
-      "pass": "123456",
+      "pass": "347189",
       "id": 2
-    },
+    }
+  ],
+  "accountAdmin": [
     {
-      "signup": "yinscoln@yahoo.co.uk",
-      "pass": "123456",
-      "id": 3
-    },
-    {
-      "signup": "yinscoln@yahoo.co.uk",
-      "pass": "123456",
-      "id": 4
-    },
-    {
-      "signup": "yinscoln@yahoo.co.uk",
-      "pass": "123456",
-      "id": 5
-    },
-    {
-      "signup": "yinscoln@yahoo.co.uk",
-      "pass": "12345",
-      "id": 6
-    },
-    {
-      "signup": "abcde",
-      "pass": "1234",
-      "id": 7
+      "signup": "admin",
+      "pass": "Taiwo",
+      "id": 1
     }
   ]
 }

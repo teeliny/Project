@@ -6,21 +6,19 @@ $.ajax({
         for (let i = 0; i < list.length; i++){
             $('#tbody').append(
                 `<tr>
-                <td>${i + 1}
+                <td>${i + 1}</td>
+                <td>${list[i].name}</td>
+                <td>${list[i].state}</td>
+                <td>${list[i].address}</td>
+                <td>${list[i].description}</td>
+                <td>${list[i].rooms}</td>
+                <td>${list[i].amount}</td>
+                <td>
+                <button id="del-${list[i].id}" class="delete-btn">Delete</button>
+                <button id="edt-${list[i].id}" class="edit-btn">Edit</button>
                 </td>
-                    <td>${list[i].name}</td>
-                    <td>${list[i].state}</td>
-                    <td>${list[i].address}</td>
-                    <td>${list[i].description}</td>
-                    <td>${list[i].rooms}</td>
-                    <td>${list[i].amount}</td>
-                        <td>
-                        <button id="del-${list[i].id}" class="delete-btn">Delete</button>
-                        <button id="edt-${list[i].id}" class="edit-btn">Edit</button>
-                    </td>
-                    </tr>`
-                    )
-
+                </tr>`
+                )
                 }
 
 
@@ -36,9 +34,6 @@ $.ajax({
                     })
                 })
 
-                $('.edit-btn').click(list=>{
-                    
-                })
 
             })
             

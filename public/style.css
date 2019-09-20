@@ -105,7 +105,7 @@ form {
   }
 
   tr:nth-child(even) {
-    background-color: #f500f5;
+    background-color: lightgoldenrodyellow;
   }
    
   h1, h2, h3, h5 {
